@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ansu_Jose
+Build-Jdk: 1.8.0_66
+Specification-Title: SampleProject EJB module
+Specification-Version: 0.0.1-SNAPSHOT
+Implementation-Title: SampleProject EJB module
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dell
+Created-By: Maven Integration for Eclipse
+

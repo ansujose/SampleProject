@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleProject Web module
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ansu_Jose
+Specification-Title: SampleProject Web module
+Implementation-Vendor-Id: com.dell
+Build-Jdk: 1.8.0_66
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
